@@ -1,0 +1,38 @@
+README FILE by Ji (Jayden) Kang
+CSS343 Bernstein 
+Dijkstra's algorithm homework assignment #3 
+
+The longest shortest path is located in the text file named "sampleRoute.txt" 
+General Statistics of that single given route: 
+Arrival Time: 674 
+Total Time enroute: 64 hours 
+Total Time waiting on a planet: 393
+
+Longest-shortest path was very inefficient with this specific route just based on arrival time. 
+
+Here is the longest-shortest path based on total time:  
+Mayflower	Bespin	12	Hoth	16
+Mayflower	Hoth	20	Sullust	42
+Mayflower	Sullust	46	Yavin	63
+Mayflower	Yavin	67	Endor	77
+Mayflower	Endor	81	Corellia	98
+Titanic	Corellia	159	Bakura	211
+Wonderwoman	Bakura	406	Corporate Sector	466
+Wonderwoman	Corporate Sector	470	Hapes Cluster	477
+Wonderwoman	Hapes Cluster	481	Kessel	493
+Wonderwoman	Kessel	497	Mon Calamari	506
+
+Arrival Time: 506 hours
+Total Time enroute: 210 hours
+Total time waiting on a planet (Includes the 4-hour layover): 283 hours 
+This can be located in the "AllItineraries.txt" file. 
+
+The "AllItineraries.txt" is a file generated from the program used for validation on all routes running Dijkstra's. The lines of code generating this file are commented out but are still present in the source code if you wish to view them. See Galaxy::search() for further details. It contains all itineraries of every pairs of planets. 
+-----------------------------------------------------------------------
+BUILDING AND RUNNING THE PROGRAM: 
+To BUILD: open up a terminal in the same folder and execute the following: ./BUILD 
+To RUN: In the same terminal execute the following: ./RUN <time_constraints_file> <ship_routes_file> 
+--> For this given version of the program, it would be: ./RUN conduits.txt ship_routes.txt 
+This will print out the longest shortest path of every planet in the galaxy. 
+Script that does all of this: ./RUN_ROUTES 
+--> However, this will only work for the given conduits.txt and ship_routes.txt files located in the same folder. 

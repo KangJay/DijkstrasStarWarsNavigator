@@ -1,0 +1,136 @@
+Mayflower	Alderaan	0	Bespin	8
+Mayflower	Bespin	12	Hoth	16
+Mayflower	Hoth	20	Sullust	42
+Mayflower	Sullust	46	Yavin	63
+Mayflower	Yavin	67	Endor	77
+Mayflower	Endor	81	Corellia	98
+Mayflower	Corellia	102	Coruscant	106
+Mayflower	Coruscant	110	Dantooine	129
+Mayflower	Dantooine	133	Dagobah	165
+Mayflower	Dagobah	169	Tatooine	197
+Mayflower	Tatooine	201	Gamorr	241
+Mayflower	Gamorr	245	Yavin	300
+Mayflower	Yavin	304	Alderaan	309
+Mayflower	Alderaan	313	Bespin	321
+Mayflower	Bespin	325	Hoth	329
+Mayflower	Hoth	333	Sullust	355
+Titanic	Gamorr	0	Tatooine	40
+Titanic	Tatooine	44	Alderaan	51
+Titanic	Alderaan	55	Endor	73
+Titanic	Endor	77	Corellia	94
+Titanic	Corellia	98	Coruscant	102
+Titanic	Coruscant	106	Brentaal	113
+Titanic	Brentaal	117	Chandrila	118
+Titanic	Chandrila	122	Corulag	123
+Titanic	Corulag	127	Esseles	131
+Titanic	Esseles	135	Rhinnal	137
+Titanic	Rhinnal	141	Ralltiir	142
+Titanic	Ralltiir	146	Corellia	155
+Titanic	Corellia	159	Bakura	211
+Titanic	Bakura	215	Corellia	267
+Titanic	Corellia	272	Chandrila	274
+Titanic	Chandrila	278	Corellia	280
+Titanic	Corellia	284	Dagobah	315
+Titanic	Dagobah	319	Dantooine	351
+Titanic	Dantooine	355	Gamorr	441
+Titanic	Gamorr	445	Yavin	500
+Titanic	Yavin	504	Corellia	519
+Titanic	Corellia	523	Kashyyyk	559
+Titanic	Kashyyyk	563	Coruscant	606
+Titanic	Coruscant	610	Chandrila	615
+Honda Civic	Myrkr	0	Wayland	21
+Honda Civic	Wayland	25	Yaga Minor	55
+Honda Civic	Yaga Minor	59	Corellia	71
+Honda Civic	Corellia	75	Coruscant	79
+Honda Civic	Coruscant	83	Kashyyyk	126
+Honda Civic	Kashyyyk	131	Myrkr	186
+Honda Civic	Myrkr	191	Wayland	212
+Honda Civic	Wayland	217	Yaga Minor	247
+Boeing 747	Kashyyyk	0	Myrkr	55
+Boeing 747	Myrkr	59	Wayland	80
+Boeing 747	Wayland	84	Yaga Minor	114
+Boeing 747	Yaga Minor	118	Corellia	130
+Boeing 747	Corellia	134	Endor	151
+Boeing 747	Endor	155	Tatooine	179
+Boeing 747	Tatooine	183	Yavin	198
+Boeing 747	Yavin	202	Alderaan	207
+Boeing 747	Alderaan	212	Bespin	220
+Boeing 747	Bespin	225	Dagobah	252
+Boeing 747	Dagobah	256	Dantooine	288
+Boeing 747	Dantooine	292	Coruscant	311
+Boeing 747	Coruscant	315	Alderaan	331
+Boeing 747	Alderaan	335	Corellia	341
+Boeing 747	Corellia	345	Yaga Minor	357
+Boeing 747	Yaga Minor	361	Kashyyyk	414
+Mountain Bike	Alderaan	0	Corellia	6
+Mountain Bike	Corellia	10	Myrkr	91
+Mountain Bike	Myrkr	95	Coruscant	203
+Mountain Bike	Coruscant	207	Chandrila	212
+Mountain Bike	Chandrila	216	Coruscant	221
+Mountain Bike	Coruscant	225	Corellia	229
+Mountain Bike	Corellia	233	Bakura	285
+Mountain Bike	Bakura	289	Corellia	341
+Mountain Bike	Corellia	345	Bespin	351
+Barry Allen	Alderaan	0	Bespin	8
+Barry Allen	Bespin	12	Dagobah	39
+Barry Allen	Dagobah	43	Tatooine	71
+Barry Allen	Tatooine	75	Dantooine	95
+Barry Allen	Dantooine	99	Hoth	127
+Barry Allen	Hoth	131	Sullust	153
+Barry Allen	Sullust	157	Endor	176
+Barry Allen	Endor	180	Yavin	190
+Barry Allen	Yavin	194	Gamorr	249
+Barry Allen	Gamorr	253	Yavin	308
+Barry Allen	Yavin	312	Corellia	327
+Barry Allen	Corellia	331	Coruscant	335
+Barry Allen	Coruscant	339	Corellia	343
+Barry Allen	Corellia	347	Yavin	362
+Barry Allen	Yavin	366	Gamorr	421
+Barry Allen	Gamorr	425	Yavin	480
+Barry Allen	Yavin	484	Endor	494
+Barry Allen	Endor	498	Sullust	517
+Barry Allen	Sullust	521	Hoth	543
+Barry Allen	Hoth	547	Dantooine	575
+Barry Allen	Dantooine	579	Tatooine	599
+Barry Allen	Tatooine	603	Dagobah	631	
+Barry Allen	Dagobah	635	Bespin	662
+Barry Allen	Bespin	666	Alderaan	674	
+Eobard Thawne	Kashyyyk	0	Myrkr	55
+Eobard Thawne	Myrkr	59	Wayland	80
+Eobard Thawne	Wayland	84	Yaga Minor	114
+Eobard Thawne	Yaga Minor	118	Wayland	148
+Eobard Thawne	Wayland	152	Myrkr	173
+Eobard Thawne	Myrkr	177	Kashyyyk	232
+Eobard Thawne	Kashyyyk	236	Coruscant	279
+Eobard Thawne	Coruscant	283	Corellia	287
+Eobard Thawne	Corellia	350	Kashyyyk	386
+Eobard Thawne	Kashyyyk	390	Myrkr	445
+Eobard Thawne	Myrkr	449	Wayland	470
+Eobard Thawne	Wayland	474	Yaga Minor	504
+Batman	Bakura	 0	Corporate Sector	60
+Batman	Corporate Sector	64	Hapes Cluster	71
+Batman	Hapes Cluster	75	Kessel	87
+Batman	Kessel	91	Mon Calamari	100
+Batman	Mon Calamari	104	Corellia	110
+Batman	Corellia	114	Coruscant	118
+Batman	Coruscant	122	Brentaal	129
+Batman	Brentaal	133	Chandrila	134
+Batman	Chandrila	138	Corulag	139
+Batman	Corulag	143	Esseles	147
+Batman	Esseles	151	Rhinnal	153
+Batman	Rhinnal	157	Ralltiir	158
+Batman	Ralltiir	162	Corellia	171
+Batman	Corellia	175	Coruscant	179
+Batman	Coruscant	183	Brentaal	190
+Batman	Brentaal	194	Chandrila	195
+Batman	Chandrila	199	Corulag	200
+Superman	Corellia	350	Corulag	351
+Superman	Corulag	355	Esseles	359
+Superman	Esseles	363	Rhinnal	365
+Superman	Rhinnal	369	Ralltiir	370
+Superman	Ralltiir	374	Brentaal	381
+Wonderwoman	Corellia	350	Bakura	402
+Wonderwoman	Bakura	406	Corporate Sector	466
+Wonderwoman	Corporate Sector	470	Hapes Cluster	477
+Wonderwoman	Hapes Cluster	481	Kessel	493
+Wonderwoman	Kessel	497	Mon Calamari	506	

@@ -1,0 +1,130 @@
+Alderaan	Bespin	8
+Alderaan	Corellia	6
+Alderaan	Coruscant	16
+Alderaan	Dagobah	30
+Alderaan	Dantooine	13
+Alderaan	Endor	18
+Alderaan	Gamorr	180
+Alderaan	Hoth	27
+Alderaan	Sullust	213
+Alderaan	Tatooine	7
+Alderaan	Yavin	5
+Bespin	Corellia	6
+Bespin	Coruscant	158
+Bespin	Dagobah	27
+Bespin	Dantooine	22
+Bespin	Endor	32
+Bespin	Gamorr	75
+Bespin	Hoth	4
+Bespin	Sullust	268
+Bespin	Tatooine	16
+Bespin	Yavin	11
+Corellia	Coruscant	4
+Corellia	Dagobah	31
+Corellia	Dantooine	12
+Corellia	Endor	17
+Corellia	Gamorr	254
+Corellia	Hoth	21
+Corellia	Sullust	19
+Corellia	Tatooine	4
+Corellia	Yavin	15
+Coruscant	Dagobah	302
+Coruscant	Dantooine	19
+Coruscant	Endor	156
+Coruscant	Gamorr	387
+Coruscant	Hoth	81
+Coruscant	Sullust	194
+Coruscant	Tatooine	542
+Coruscant	Yavin	128
+Dagobah	Dantooine	32
+Dagobah	Endor	97
+Dagobah	Gamorr	656
+Dagobah	Hoth	89
+Dagobah	Sullust	78
+Dagobah	Tatooine	28
+Dagobah	Yavin	314
+Dantooine	Endor	21
+Dantooine	Gamorr	86
+Dantooine	Hoth	28
+Dantooine	Sullust	126
+Dantooine	Tatooine	20
+Dantooine	Yavin	12
+Endor	Gamorr	341
+Endor	Hoth	60
+Endor	Sullust	19
+Endor	Tatooine	24
+Endor	Yavin	10
+Gamorr	Hoth	346
+Gamorr	Sullust	74
+Gamorr	Tatooine	40
+Gamorr	Yavin	55
+Hoth	Sullust	22
+Hoth	Tatooine	56
+Hoth	Yavin	39
+Sullust	Tatooine	38
+Sullust	Yavin	17
+Tatooine	Yavin	15
+Brentaal	Chandrila	1
+Brentaal	Corellia	3
+Brentaal	Corulag	2
+Brentaal	Coruscant	7
+Brentaal	Esseles	2
+Brentaal	Rhinnal	5
+Brentaal	Ralltiir	7
+Chandrila	Corellia	2
+Chandrila	Corulag	1
+Chandrila	Coruscant	5
+Chandrila	Esseles	3
+Chandrila	Rhinnal	2
+Chandrila	Ralltiir	4
+Corellia	Corulag	1
+Corellia	Coruscant	4
+Corellia	Esseles	4
+Corellia	Rhinnal	7
+Corellia	Ralltiir	9
+Corulag	Coruscant	6
+Corulag	Esseles	4
+Corulag	Rhinnal	8
+Corulag	Ralltiir	11
+Coruscant	Esseles	8
+Coruscant	Rhinnal	10
+Coruscant	Ralltiir	12
+Esseles	Rhinnal	2
+Esseles	Ralltiir	4
+Rhinnal	Ralltiir	1
+Corellia	Coruscant	4
+Corellia	Kashyyyk	36
+Corellia	Myrkr	81
+Corellia	Wayland	99
+Corellia	Yaga Minor	12
+Coruscant	Kashyyyk	43
+Coruscant	Myrkr	108
+Coruscant	Wayland	58
+Coruscant	Yaga Minor	15
+Kashyyyk	Myrkr	55
+Kashyyyk	Wayland	54
+Kashyyyk	Yaga Minor	53
+Myrkr	Wayland	21
+Myrkr	Yaga Minor	55
+Wayland	Yaga Minor	30
+Bakura	Corellia	52
+Bakura	Corporate Sector	60
+Bakura	Coruscant	77
+Bakura	Hapes Cluster	11
+Bakura	Kessel	27
+Bakura	Mon Calamari	22
+Corellia	Corporate Sector	9
+Corellia	Coruscant	4
+Corellia	Hapes Cluster	21
+Corellia	Kessel	10
+Corellia	Mon Calamari	6
+Corporate Sector	Coruscant	15
+Corporate Sector	Hapes Cluster	7
+Corporate Sector	Kessel	9
+Corporate Sector	Mon Calamari	24
+Coruscant	Hapes Cluster	39
+Coruscant	Kessel	27
+Coruscant	Mon Calamari	13
+Hapes Cluster	Kessel	12
+Hapes Cluster	Mon Calamari	18
+Kessel	Mon Calamari	9

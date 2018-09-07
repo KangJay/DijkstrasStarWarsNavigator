@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./BUILD
+
+./RUN conduits.txt ship_routes.txt
