@@ -28,7 +28,7 @@ Total time waiting on a planet (Includes the 4-hour layover): 283 hours
 This can be located in the "AllItineraries.txt" file. 
 
 The "AllItineraries.txt" is a file generated from the program used for validation on all routes running Dijkstra's. The lines of code generating this file are commented out but are still present in the source code if you wish to view them. See Galaxy::search() for further details. It contains all itineraries of every pairs of planets. 
------------------------------------------------------------------------
+*-----------------------------------------------------------------------*
 BUILDING AND RUNNING THE PROGRAM: 
 To BUILD: open up a terminal in the same folder and execute the following: ./BUILD 
 To RUN: In the same terminal execute the following: ./RUN <time_constraints_file> <ship_routes_file> 
